@@ -2,3 +2,6 @@ colors:
   primary:
     background: '#000000'
     foreground: '#ffffff'
+
+key_bindings:
+  - { key: Return, mods: Super|Shift, action: SpawnNewInstance }
